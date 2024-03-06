@@ -1,5 +1,5 @@
 <br clear="both">
-
+<img align="center" height="100" src="/Pictures/logo"  />
 <h1 align="center">- - - - - - - - -EmoAI - - - - - - - - - -</h1>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="281" src="/Pictures/logo.png"  />
+<img align="right" height="281" src="/Pictures/interface.png"  />
 
 ###
 
