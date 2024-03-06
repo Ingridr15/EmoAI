@@ -1,13 +1,53 @@
-<br clear="both">
-<h1 align="center">- - - - - - - - - <img align="center" height="50" src="/Pictures/logo.png"  /> EmoAI <img align="center" height="50" src="/Pictures/logo.png"  /> - - - - - - - - - -</h1>
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
-<h4 align="center">EmoAI es un sistema de detección de emociones impulsado por inteligencia artificial que utiliza modelos de aprendizaje profundo para analizar y reconocer expresiones faciales humanas. Con una combinación de procesamiento de imágenes y algoritmos de clasificación avanzados, EmoAI puede identificar una amplia gama de emociones en tiempo real, incluyendo felicidad, tristeza, enojo, sorpresa y más.</h4>
+# EmoAI
 
-<img align="right" height="281" src="/Pictures/Interface.png"  />
+EmoAI es un sistema de detección de emociones impulsado por inteligencia artificial que utiliza modelos de aprendizaje profundo para analizar y reconocer expresiones faciales humanas. Con una combinación de procesamiento de imágenes y algoritmos de clasificación avanzados, EmoAI puede identificar una amplia gama de emociones en tiempo real, incluyendo felicidad, tristeza, enojo, sorpresa y más.
+   
 
-###
+## App
 
-<p align="center">Una vez iniciado el programa esta es la ventana principal que se mostrara, con el que puede detectar emociones en tiempo real y al seleccionar una imagen.</p>
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-###
+
+## Emociones detectadas
+
+- Enojo
+- Tristeza
+- Felicidad
+- Neutral
+- Miedo
+- Sorpresa
+- Disgusto
+
+## Ejecutar el proyecto
+
+1. Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+2. Entra a la carpeta Model y copia el archivo "Emotion_detection.ipynb" a un nuevo notebook de Google Colab.
+
+3. Ejecuta el notebook.
+
+4. Descarga el archivo "emotiondetector.h5" y pasalo a la carpeta Model.
+
+5. Corre el proyecto
+
+```bash
+  python EmoAI.py
+```
+## Documentation
+[Documentation](https://linktodocumentation)
+
+
+## 🛠 Skills
+Python, Google Colab, Visual Studio Code and OpenCV.
+
+## Authors
+
+- Ingrid Reyes - Estudiante
+
