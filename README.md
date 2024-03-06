@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](/Pictures/logo.png)
 
 
 # EmoAI
@@ -9,7 +9,7 @@ EmoAI es un sistema de detección de emociones impulsado por inteligencia artifi
 
 ## App
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/Pictures/Interface.png)
 
 
 ## Emociones detectadas
@@ -41,7 +41,7 @@ EmoAI es un sistema de detección de emociones impulsado por inteligencia artifi
   python EmoAI.py
 ```
 ## Documentation
-[Documentation](https://linktodocumentation)
+[Documentation](https://drive.google.com/drive/folders/1meBiFgtDr3j7tZCOtjWa53PRCrr6Iq8M?usp=drive_link)
 
 
 ## 🛠 Skills
