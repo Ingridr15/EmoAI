@@ -36,14 +36,14 @@ EmoAI es un sistema de detección de emociones impulsado por inteligencia artifi
 ```bash
   python EmoAI.py
 ```
-## Documentation
+## Documentación
 [Documentation](https://drive.google.com/drive/folders/1meBiFgtDr3j7tZCOtjWa53PRCrr6Iq8M?usp=drive_link)
 
 
-## 🛠 Skills
+## Herramientas
 Python, Google Colab, Visual Studio Code and OpenCV.
 
-## Authors
+## Autora
 
 - Ingrid Reyes - Estudiante
 
