@@ -1,8 +1,4 @@
-
-![Logo](/Pictures/logo.png)
-
-
-# EmoAI
+## EmoAI
 
 EmoAI es un sistema de detección de emociones impulsado por inteligencia artificial que utiliza modelos de aprendizaje profundo para analizar y reconocer expresiones faciales humanas. Con una combinación de procesamiento de imágenes y algoritmos de clasificación avanzados, EmoAI puede identificar una amplia gama de emociones en tiempo real, incluyendo felicidad, tristeza, enojo, sorpresa y más.
    
